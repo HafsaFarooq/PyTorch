@@ -6,6 +6,6 @@ These notebooks were created on Google colab.
  
 **Highlights** -
 
-* 00_pytorch_fundamentals_Tensors_and_exercises.ipynb: Tensors, operations on tensors, manipulation of tensors, device agnostic code, GPU usage of tensors and exercises.
+* _00_pytorch_fundamentals_Tensors_and_exercises.ipynb_: Tensors, operations on tensors, manipulation of tensors, device agnostic code, GPU usage of tensors and exercises.
 
 (Repo is in updation phase)
